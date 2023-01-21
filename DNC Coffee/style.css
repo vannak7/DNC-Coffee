@@ -1,0 +1,33 @@
+.fazer-pedido {
+    width: 10rem;
+}
+
+.image-banner {
+    object-fit: cover;
+}
+
+.card {
+    border: 1px solid #edebe9 !important;
+    border-radius: 1em !important;
+}
+
+main, nav {
+    background: #FFFFFF ;
+}
+
+.btn {
+    color: black !important;
+}
+
+.nav-link {
+    color: black !important;
+}
+
+.nav-item {
+    font-family: 'Inter', sans-serif;
+}
+
+.card-body {
+    font-size: 14px;
+    line-height: 20px;
+}
